@@ -9,25 +9,25 @@
 
     <item
         android:id="@+id/actionFavoritesItem"
-        android:icon="@drawable/magnify"
+        android:icon="@mipmap/ic_magnify"
         android:orderInCategory="2"
         android:title="@string/menu_item_favorites" />
 
     <item
         android:id="@+id/actionArchiveItem"
-        android:icon="@drawable/magnify"
+        android:icon="@mipmap/ic_magnify"
         android:orderInCategory="3"
         android:title="@string/menu_item_archive" />
 
     <item
         android:id="@+id/actionSettingsItem"
-        android:icon="@drawable/magnify"
+        android:icon="@mipmap/ic_magnify"
         android:orderInCategory="4"
         android:title="@string/menu_item_settings" />
 
     <item
         android:id="@+id/actionReferenceItem"
-        android:icon="@drawable/magnify"
+        android:icon="@mipmap/ic_magnify"
         android:orderInCategory="5"
         android:title="@string/menu_item_reference" />
 </menu>
